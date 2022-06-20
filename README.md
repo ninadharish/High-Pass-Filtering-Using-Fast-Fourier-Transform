@@ -27,7 +27,7 @@ An image consists of elements of various frequencies. This image can be processe
 
 * Frequency Domain Image
 
-![alt text](/output/output1.jpg)
+![alt text](/output/output1.png)
 
 * Removing Low Frequencies
 
