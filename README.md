@@ -2,7 +2,7 @@
 
 ## Description
 
-An image consists of elements of various frequencies. This image can be processed if the image, which is originally in the spatial domain be converted to the frequency domain using the Fast Fourier Transform. A High pass filter only lets elements of high frequency pass through. This is done here without using any OpenCV functions.
+An image consists of elements of various frequencies. This image can be processed if the image, which is originally in the spatial domain be converted to the frequency domain using the Fast Fourier Transform. A High pass filter only lets elements of high frequency pass through. This is done here without using any inbuilt functions.
 
 
 ## Data
